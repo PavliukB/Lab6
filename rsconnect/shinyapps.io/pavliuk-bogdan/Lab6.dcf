@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: pavliuk-bogdan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 236498
+bundleId: 1080019
+url: https://pavliuk-bogdan.shinyapps.io/Lab6/
+when: 1510874543.65816
+asMultiple: FALSE
+asStatic: FALSE
